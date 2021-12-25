@@ -1,5 +1,5 @@
 *.ini
 __pycache__/
 !rough.ini
-
+*.log
 main.py
